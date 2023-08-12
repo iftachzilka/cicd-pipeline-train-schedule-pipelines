@@ -13,7 +13,6 @@ node {
 task build
 
 
-}
 
 //declare task dependencies
 build.dependsOn zip
